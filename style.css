@@ -1,0 +1,16 @@
+* {
+  background-color: #b39237fd;
+  font-family: 'Lobster', cursive;
+}
+.Warring {
+  color: rgb(255, 0, 0);
+}
+.cool {
+  color:rgba(255, 217, 0, 0.945);
+}
+.model {
+  background-color: #ebd189fd;
+  display: inline-block;
+  width: 230px;
+  height: 190px;
+}
